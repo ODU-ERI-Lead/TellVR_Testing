@@ -31,6 +31,12 @@ The application name, link, and SHA256 will be provided for you for each apk bui
 
 You will also be provided with an Icon file and a Logo file. The icon will be 512x512 and have the module and scene index on it. The logo file will probably only vary between French and Spanish and generally be the same.
 
+Banner Image: https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/FrenchOneBannerV2.png
+![Banner Image](https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/FrenchOneBannerV2.png)
+
+Logo Image: https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/F1M1S1thruS2.png
+![Logo Image](https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/F1M1S1thruS2.png)
+
 ![Meta Externally Hosted Page 3a of 4](./Images/Meta_App_004.png)
 ![Meta Externally Hosted Page 3b of 4](./Images/Meta_App_005.png)
 
