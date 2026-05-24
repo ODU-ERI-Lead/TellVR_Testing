@@ -3,7 +3,7 @@ name: VR Bug Report
 about: Report an issue found while using a TELL VR language module
 title: '[BUG] '
 labels: bug, vr-feedback
-assignees: '@JShull'
+assignees: 'JShull'
 
 ---
 
