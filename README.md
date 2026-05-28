@@ -21,11 +21,11 @@ A pop up window with some details are now needed for you to fill out.
 
 The application name, link, and SHA256 will be provided for you for each apk build. For our example purposes please see that information below
 
-* Version: 0.6.6
-* Updated 5/21/2026 2:25AM
+* Version: 0.6.8
+* Updated 5/28/2026 2:59PM
 * Application Name: TellVR_F1M1Setup_S2
-* APK Link: [https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.6.6/F1M1_Setup_S1_S2.apk](https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.6.6/F1M1_Setup_S1_S2.apk)
-* SHA256: 5a0944d7c7a63f040f14deb8fc4ba2048ef2e1faced14c7d8c627f862b560317
+* APK Link: [https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.6.8/F1M1_Setup_S1_S2.apk](https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.6.8/F1M1_Setup_S1_S2.apk)
+* SHA256: f34212dba86595fd0b4dceac0376214da89ab9cee12203de41c78519716a8f65
 * Module: French Module 1
 * Scene(s): Setup, Unpacking, Test Plane
 
