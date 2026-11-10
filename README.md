@@ -38,8 +38,8 @@ You will also be provided with an Icon file and a Logo file. The icon will be 51
 Banner Image: https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/FrenchOneBannerV2.png
 ![Banner Image](https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/FrenchOneBannerV2.png)
 
-Logo Image: https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/F1M1S1thruS2.png
-![Logo Image](https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/F1M1S1thruS2.png)
+Logo Image: https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/F1_070.png
+![Logo Image](https://github.com/ODU-ERI-Lead/TellVR_Testing/blob/main/MetaLogos/F1_070.png)
 
 ![Meta Externally Hosted Page 3b of 4](./Images/Meta_App_005.png)
 
