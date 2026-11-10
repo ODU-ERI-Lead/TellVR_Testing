@@ -21,13 +21,13 @@ A pop up window with some details are now needed for you to fill out.
 
 The application name, link, and SHA256 will be provided for you for each apk build. For our example purposes please see that information below
 
-* Version: 0.6.8
-* Updated 5/28/2026 2:59PM
-* Application Name: TellVR_F1M1Setup_S2
-* APK Link: [https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.6.8/F1M1_Setup_S1_S2.apk](https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.6.8/F1M1_Setup_S1_S2.apk)
-* SHA256: f34212dba86595fd0b4dceac0376214da89ab9cee12203de41c78519716a8f65
+* Version: 0.7.0
+* Updated 11/10/2026 7:41AM
+* Application Name: TellVR_F1
+* APK Link: [https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.7.0/TellVR-Quest-PartnerTest-0.7.0.apk](https://github.com/ODU-ERI-Lead/TellVR_Testing/releases/download/0.7.0/TellVR-Quest-PartnerTest-0.7.0.apk)
+* SHA256: 7b18a480fcea62a57eec49406ad6fd065ce6904500a25dd41502361a7626a02d
 * Module: French Module 1
-* Scene(s): Setup, Unpacking, Test Plane
+* Scene(s): Setup, Unpacking, Airplane, Airport, Car, Home Unpacking, Home Breakfast
 
 ![Meta Externally Hosted Page 2 of 4](./Images/Meta_App_003.png)
 
